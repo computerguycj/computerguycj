@@ -1,10 +1,9 @@
 ### Hi there, I'm Christopher - aka @computerguycj 👋
 
-## I'm a full-stack software engineer. I build Desktop, Web & Mobile Apps.
-- 🌱 I’m currently learning Prompt Engineering and AI Agents.
+## I'm an AI Engineer.
 - 📫 You can view my LinkedIn profile at https://www.linkedin.com/in/computerguycj/
 - 🎲 I love playing new strategic board games. Power Grid is by far my favorite board game.
-- 🚲 I ride a bicycle for my commute, for exercise, and for fun!
+- 🚲 I ride a bicycle for exercise and for fun!
 - 📘 One of my favorite books is [The Effective Engineer](https://www.effectiveengineer.com/book)
 <br />
 
@@ -17,4 +16,4 @@
 - JavaScript
 - TypeScript
 - SQL
-- and more...
+- and, honestly, anything else the AI can use that I know how to read and debug
