@@ -14,4 +14,4 @@ I think about software from the product side - why we're building it, who it aff
 - C#, ASP.NET, .NET (Framework & Core), SQL
 - JavaScript/TypeScript, Angular, HTML, CSS
 - GitHub Copilot and other AI tools (as helpers, not replacements)
-- And, honestly, anything else the AI can write that I can read and debug
+- And, honestly, anything else the AI can write that I can read and debug (my new favorites being Rust and Go)
